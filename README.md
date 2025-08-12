@@ -1,16 +1,15 @@
-## Hi there 👋
+# André Esteves — Computer Engineering Student
 
-<!--
-**A-Esteves/A-Esteves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently in the final year of my Bachelor's degree in Computer Engineering at Instituto Superior de Engenharia de Lisboa (ISEL).  
+On my GitHub, you can explore the projects I have contributed to, showcasing my skills and experience in software development and engineering.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Tools
+![Skills](https://skillicons.dev/icons?i=kotlin,java,js,ts,c,python,postgresql,git,docker,nodejs,gcp)
+
+---
+
+## 📊 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-Esteves&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Esteves&layout=compact&theme=radical)
